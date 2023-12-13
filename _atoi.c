@@ -40,8 +40,8 @@ int _isalpha(int c)
 }
 
 /**
- * _atoi - conerts a string to an integer
- * @s: the string to br converted
+ * _atoi - converts a string to an integer
+ * @s: the string to be converted
  * Retutn: 0 if no numbers in string, converted number otherwise
  */
 
